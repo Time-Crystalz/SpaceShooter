@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 9c17c0c4e2d6f2842a53b7b8ea975085
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2587748481763582540
+    second: bossElectricGunAnimation-export_0
+  - first:
+      213: -8954650861446785484
+    second: bossElectricGunAnimation-export_1
+  - first:
+      213: 3759631352480044825
+    second: bossElectricGunAnimation-export_2
+  - first:
+      213: 2702320267089234184
+    second: bossElectricGunAnimation-export_3
+  - first:
+      213: 6641641329494407642
+    second: bossElectricGunAnimation-export_4
+  - first:
+      213: 3395123713915894561
+    second: bossElectricGunAnimation-export_5
+  - first:
+      213: -3380761886957795853
+    second: bossElectricGunAnimation-export_6
+  - first:
+      213: -1394742586729740826
+    second: bossElectricGunAnimation-export_7
+  - first:
+      213: 8041002574017090576
+    second: bossElectricGunAnimation-export_8
+  - first:
+      213: 6352132326599180050
+    second: bossElectricGunAnimation-export_9
+  - first:
+      213: -6902434021251634538
+    second: bossElectricGunAnimation-export_10
+  - first:
+      213: -2153460965126257621
+    second: bossElectricGunAnimation-export_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2900
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09890274488f47c468b0d921f688b345
+      internalID: -2587748481763582540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2900
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d5ad94e0989f4681df5eb21a4fe4e
+      internalID: -8954650861446785484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2900
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c28f3471c0d654788470c79aa40e55
+      internalID: 3759631352480044825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2900
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42bf41c989127438ed93068adf9d4c
+      internalID: 2702320267089234184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea3772ccc85c6489a673ca05e6329b
+      internalID: 6641641329494407642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1450
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb779af7f42c064e90497504a05eb9f
+      internalID: 3395123713915894561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_6
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1450
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceaf9a802e0db14b8b9298f480de9b9
+      internalID: -3380761886957795853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1450
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b8519ac5db9b4ea9f92ff80612a2e
+      internalID: -1394742586729740826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b16153cc187eb44833968f35f4d000
+      internalID: 8041002574017090576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd389dc41e45144b86dfc0863cd8bbc
+      internalID: 6352132326599180050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bossElectricGunAnimation-export_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 1280
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf1304e1f2c774eb195f834782bb19
+      internalID: -6902434021251634538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 670e22ec649db494fbcd458c40e6004f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":1280.0,"y":1450.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bossElectricGunAnimation-export_0: -2587748481763582540
+      bossElectricGunAnimation-export_1: -8954650861446785484
+      bossElectricGunAnimation-export_10: -6902434021251634538
+      bossElectricGunAnimation-export_2: 3759631352480044825
+      bossElectricGunAnimation-export_3: 2702320267089234184
+      bossElectricGunAnimation-export_4: 6641641329494407642
+      bossElectricGunAnimation-export_5: 3395123713915894561
+      bossElectricGunAnimation-export_6: -3380761886957795853
+      bossElectricGunAnimation-export_7: -1394742586729740826
+      bossElectricGunAnimation-export_8: 8041002574017090576
+      bossElectricGunAnimation-export_9: 6352132326599180050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
